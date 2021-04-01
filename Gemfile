@@ -27,5 +27,5 @@ group :jekyll_plugins do
 end
 
 # Fixes vulnerability concern with older Kramdown version
-gem "kramdown", "~> 2.3.0"
+gem "kramdown", "~> 2.3.1"
 
